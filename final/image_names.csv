@@ -1,0 +1,11 @@
+.DS_Store
+bug_bites_data - Spider (training).csv
+bug_bites_data - ants (training)(1).csv
+bug_bites_data - begbugs (training).csv
+bug_bites_data - chiggers (training).csv
+bug_bites_data - fleas (training).csv
+bug_bites_data - mosquitos (training).csv
+bug_bites_data - no_bites (training).csv
+bug_bites_data - ticks (training).csv
+image_names.csv
+names_script.py
