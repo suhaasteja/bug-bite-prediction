@@ -1,4 +1,4 @@
-name,latitude,longitude,county_name
+image_id,latitude,longitude,county_name
 fleas_1.jpg,34.09502658,-118.3432863,Los Angeles
 fleas_10.jpg,34.40699616,-118.5423091,Los Angeles
 fleas_11.jpg,34.12041838,-118.1273285,Los Angeles
