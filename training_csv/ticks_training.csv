@@ -1,202 +1,281 @@
-image_id,latitude,longitude,county_name
-es_ticksimage108.jpg,34.34569167,-118.5249967,Los Angeles
-es_ticksimage110.jpg,34.33767833,-118.5502633,Los Angeles
-es_ticksimage111.jpg,34.35597167,-118.4971533,Los Angeles
-es_ticksimage113.jpg,34.336525,-118.54133,Los Angeles
-es_ticksimage119.jpg,34.36802,-118.480145,Los Angeles
-es_ticksimage120.jpg,34.34096667,-118.5491867,Los Angeles
-es_ticksimage14.jpg,34.19988644,-118.1122948,Los Angeles
-es_ticksimage15.jpg,34.33906167,-118.5501617,Los Angeles
-es_ticksimage16.jpg,34.34143,-118.5495617,Los Angeles
-es_ticksimage17.jpg,34.37541667,-118.4390967,Los Angeles
-es_ticksimage179.jpg,34.34709167,-118.5444917,Los Angeles
-es_ticksimage19.jpg,34.36897833,-118.5775383,Los Angeles
-es_ticksimage196.jpg,34.374105,-118.4361,Los Angeles
-es_ticksimage2.jpg,34.33718833,-118.5512667,Los Angeles
-es_ticksimage203.jpg,34.376905,-118.4541617,Los Angeles
-es_ticksimage273.jpg,34.376895,-118.4595717,Los Angeles
-es_ticksimage282.jpg,34.35983667,-118.4984867,Los Angeles
-es_ticksimage379.jpg,34.34507985,-118.5430345,Los Angeles
-es_ticksimage396.jpg,34.34590074,-118.5434044,Los Angeles
-es_ticksimage397.jpg,34.37562,-118.4490717,Los Angeles
-es_ticksimage402.jpg,34.36796333,-118.5753283,Los Angeles
-es_ticksimage404.jpg,34.3576675,-118.49839,Los Angeles
-es_ticksimage405.jpg,34.365625,-118.5623,Los Angeles
-es_ticksimage409.jpg,34.17186333,-118.2871083,Los Angeles
-es_ticksimage415.jpg,34.16182783,-118.0537112,Los Angeles
-es_ticksimage478.jpg,34.208661,-118.5733641,Los Angeles
-es_ticksimage483.jpg,34.34266667,-118.5469883,Los Angeles
-es_ticksimage485.jpg,34.19411436,-118.5567801,Los Angeles
-es_ticksimage488.jpg,34.33796167,-118.543605,Los Angeles
-es_ticksimage489.jpg,34.37353691,-118.6111762,Los Angeles
-es_ticksimage491.jpg,34.12347379,-118.4101059,Los Angeles
-es_ticksimage6.jpg,34.34573,-118.5249833,Los Angeles
-es_ticksimage81.jpg,34.37694167,-118.4545033,Los Angeles
-es_ticksimage83.jpg,34.339305,-118.5402167,Los Angeles
-es_ticksimage85.jpg,34.35384667,-118.5598967,Los Angeles
-es_ticksimage9.jpg,34.33757,-118.5414717,Los Angeles
-es_ticksimage92.jpg,34.35338833,-118.5609,Los Angeles
-tick-0.jpg,34.36020833,-118.498625,Los Angeles
-tick-1.jpg,34.372275,-118.4291417,Los Angeles
-tick-10.jpg,34.34185333,-118.5409633,Los Angeles
-tick-11.jpg,34.0641719,-118.5060087,Los Angeles
-tick-12.jpg,34.35655333,-118.55812,Los Angeles
-tick-14.jpg,34.37566333,-118.4386583,Los Angeles
-tick-16.jpg,34.061989,-118.126648,Los Angeles
-tick-19.jpg,34.37695833,-118.4388367,Los Angeles
-tick-2.jpg,34.37543,-118.4440283,Los Angeles
-tick-4.jpg,34.36661333,-118.5717917,Los Angeles
-tick-5.jpg,34.07146383,-119.0141611,Los Angeles
-tick-6.jpg,34.33910333,-118.536105,Los Angeles
-tick-7.jpg,34.367875,-118.5753367,Los Angeles
-tick-8.jpg,34.347745,-118.529,Los Angeles
-tick-9.jpg,34.33736667,-118.54892,Los Angeles
-ticksimage1.jpg,34.24178215,-118.3830546,Los Angeles
-ticksimage10.jpg,34.367875,-118.5753367,Los Angeles
-ticksimage100.jpg,34.368525,-118.426755,Los Angeles
-ticksimage101.jpg,34.10474521,-118.5041766,Los Angeles
-ticksimage102.jpg,34.34392167,-118.5455967,Los Angeles
-ticksimage103.jpg,34.34405272,-118.5423034,Los Angeles
-ticksimage106.jpg,34.39063012,-118.5885914,Los Angeles
-ticksimage107.jpg,34.35555,-118.566705,Los Angeles
-ticksimage108.jpg,35.82585691,-121.3707392,San Jose
-ticksimage109.jpg,37.32011506,-122.1868188,San Jose
-ticksimage11.jpg,37.26177793,-122.3270148,San Jose
-ticksimage111.jpg,37.27047904,-122.0691889,San Jose
-ticksimage112.jpg,36.98520181,-122.0554306,San Jose
-ticksimage115.jpg,36.95436167,-122.0654055,San Jose
-ticksimage116.jpg,37.1191,-122.3141778,San Jose
-ticksimage117.jpg,37.093377,-121.722665,San Jose
-ticksimage119.jpg,37.21431549,-121.7774391,San Jose
-ticksimage12.jpg,36.25666046,-121.743212,San Jose
-ticksimage120.jpg,37.3426553,-122.2296185,San Jose
-ticksimage13.jpg,37.37997168,-121.7409941,San Jose
-ticksimage14.jpg,37.165,-122.3272222,San Jose
-ticksimage15.jpg,37.43605221,-122.1057497,San Jose
-ticksimage16.jpg,37.19325278,-121.8317028,San Jose
-ticksimage175.jpg,37.36806167,-122.222625,San Jose
-ticksimage176.jpg,37.00040847,-121.6986889,San Jose
-ticksimage18.jpg,37.33245474,-122.087338,San Jose
-ticksimage180.jpg,36.62477544,-121.7258609,San Jose
-ticksimage183.jpg,37.04952503,-122.3829055,San Jose
-ticksimage184.jpg,37.39941796,-122.1618712,San Jose
-ticksimage186.jpg,37.34669,-122.244017,San Jose
-ticksimage187.jpg,36.94957167,-122.0667583,San Jose
-ticksimage189.jpg,37.07294717,-122.1386333,San Jose
-ticksimage19.jpg,37.36027876,-122.1852276,San Jose
-ticksimage191.jpg,37.22036874,-121.8454097,San Jose
-ticksimage192.jpg,36.98505652,-122.0676468,San Jose
-ticksimage193.jpg,37.02646259,-121.796803,San Jose
-ticksimage194.jpg,37.44283333,-122.2635417,San Jose
-ticksimage197.jpg,37.35283284,-122.1612477,San Jose
-ticksimage2.jpg,36.917559,-121.841245,San Jose
-ticksimage202.jpg,37.27374327,-122.272451,San Jose
-ticksimage205.jpg,37.321895,-122.17195,San Jose
-ticksimage206.jpg,37.17589364,-121.8286586,San Jose
-ticksimage214.jpg,37.28026944,-121.8125833,San Jose
-ticksimage215.jpg,37.36561167,-122.1800217,San Jose
-ticksimage216.jpg,37.57446244,-121.6921873,San Jose
-ticksimage272.jpg,37.56751,-121.6981383,San Jose
-ticksimage298.jpg,37.40730345,-122.2370085,San Jose
-ticksimage3.jpg,37.3226053,-122.1821885,San Jose
-ticksimage300.jpg,38.35806274,-122.7054596,Sonoma
-ticksimage304.jpg,38.27244167,-122.2493111,Sonoma
-ticksimage309.jpg,39.31130743,-123.8019402,Sonoma
-ticksimage310.jpg,38.07468917,-122.8510547,Sonoma
-ticksimage393.jpg,38.45463056,-122.5304944,Sonoma
-ticksimage399.jpg,38.34854997,-122.589435,Sonoma
-ticksimage4.jpg,38.34334336,-122.5947525,Sonoma
-ticksimage400.jpg,38.02262217,-122.6940917,Sonoma
-ticksimage401.jpg,38.56858293,-122.7056482,Sonoma
-ticksimage405.jpg,38.46151614,-122.7251961,Sonoma
-ticksimage471.jpg,38.50386389,-122.3548444,Sonoma
-ticksimage477.jpg,38.458275,-122.7115333,Sonoma
-ticksimage480.jpg,38.36477333,-122.4703733,Sonoma
-ticksimage481.jpg,38.34864275,-122.5390736,Sonoma
-ticksimage484.jpg,38.04888617,-122.8038333,Sonoma
-ticksimage520.jpg,39.4220421,-123.1835733,Sonoma
-ticksimage553.jpg,38.45986944,-122.5624,Sonoma
-ticksimage562.jpg,38.35111603,-122.5089726,Sonoma
-ticksimage568.jpg,38.58273056,-122.708375,Sonoma
-ticksimage576.jpg,38.37029333,-122.4972217,Sonoma
-ticksimage7.jpg,38.54728667,-122.5316383,Sonoma
-ticksimage74.jpg,37.47242898,-122.2779198,San Francisco
-ticksimage75.jpg,37.89818,-122.5442667,San Francisco
-ticksimage77.jpg,37.4608477,-122.2822008,San Francisco
-ticksimage78.jpg,37.46112,-122.2822417,San Francisco
-ticksimage79.jpg,37.96813889,-122.5770333,San Francisco
-ticksimage80.jpg,37.94417167,-122.5678033,San Francisco
-ticksimage81.jpg,37.85765245,-122.5222621,San Francisco
-ticksimage82.jpg,37.95481167,-122.5746167,San Francisco
-ticksimage83.jpg,37.596455,-122.5026867,San Francisco
-ticksimage84.jpg,37.44816167,-122.3988283,San Francisco
-ticksimage85.jpg,38.00952278,-122.6173111,San Francisco
-ticksimage86.jpg,37.97508833,-122.5833583,San Francisco
-ticksimage87.jpg,37.95433,-122.5739283,San Francisco
-ticksimage89.jpg,37.98372366,-122.6033197,San Francisco
-ticksimage9.jpg,37.93720056,-122.5634644,San Francisco
-ticksimage90.jpg,37.74211333,-122.4296717,San Francisco
-ticksimage91.jpg,37.79714667,-122.45382,San Francisco
-ticksimage92.jpg,32.97692874,-117.2469336,San Diego
-ticksimage99.jpg,32.77173333,-116.9527111,San Diego
-,32.8238144,-117.0563328,San Diego
-,32.72781111,-116.9401306,San Diego
-,32.8424574,-117.2020457,San Diego
-,32.726745,-116.9573883,San Diego
-,32.73108333,-116.9415133,San Diego
-,33.08684576,-117.1432943,San Diego
-,33.60184167,-116.59822,San Diego
-,32.92585833,-117.1824583,San Diego
-,32.66590833,-116.8647917,San Diego
-,32.69602,-116.8105617,San Diego
-,37.93448333,-122.197655,Oakland
-,37.79800702,-122.1618748,Oakland
-,37.93616333,-122.2024217,Oakland
-,37.877157,-121.9238662,Oakland
-,37.86713833,-122.257505,Oakland
-,37.91346376,-121.9417746,Oakland
-,37.9159598,-121.939972,Oakland
-,37.71695267,-122.1008976,Oakland
-,37.90998667,-122.2708517,Oakland
-,37.864021,-122.243795,Oakland
-,37.84277167,-122.1908117,Oakland
-,38.90916897,-121.062981,Sacramento
-,38.6526165,-121.182555,Sacramento
-,38.56174804,-121.7802158,Sacramento
-,39.31313333,-121.045975,Sacramento
-,38.55228233,-121.6128816,Sacramento
-,38.63700303,-121.2680679,Sacramento
-,40.36658637,-120.6185389,Sacramento
-,38.796545,-120.8952333,Sacramento
-,38.86494,-121.0562522,Sacramento
-,35.15418617,-120.6427467,Bakersfield
-,35.1931682,-118.3793825,Bakersfield
-,34.74991594,-119.9443217,Bakersfield
-,35.33716481,-120.8125877,Bakersfield
-,34.859205,-119.1807667,Bakersfield
-,35.247455,-120.6915117,Bakersfield
-,34.52868667,-119.144225,Bakersfield
-,34.52948333,-120.1744,Bakersfield
-,35.29756167,-120.7024,Bakersfield
-,40.92633694,-123.740134,Humboldt
-,41.88706074,-123.1769249,Humboldt
-,40.8020573,-124.1636731,Humboldt
-,40.12737096,-123.824931,Humboldt
-,41.25240253,-123.9853018,Humboldt
-,40.12759024,-123.8244773,Humboldt
-,38.06794087,-122.1101975,Vallejo
-,38.09707783,-122.1530695,Vallejo
-,38.0370782,-122.2629046,Vallejo
-,38.213375,-122.3321217,Vallejo
-,37.94876561,-121.855253,Vallejo
-,34.12711976,-117.8504544,Pomona
-,34.41458407,-117.8597121,Pomona
-,34.22403717,-117.4641113,Pomona
-,34.02889255,-117.0502184,Pomona
-,38.44109219,-119.2114398,Fresno
-,37.29162,-118.2297833,Fresno
-,36.73026523,-119.8087067,Fresno
-,35.55237167,-121.0776528,Fresno
-,33.78871667,-117.8103717,Anaheim
-,33.6768537,-117.7846031,Anaheim
-,33.5684605,-117.7262981,Anaheim
+image_name,latitude,longitude,county_name
+ticksimage215.jpg,34.34569167,-118.5249967,Los Angeles
+tick-4.jpg,34.33767833,-118.5502633,Los Angeles
+ticks_0_2646.jpeg,34.35597167,-118.4971533,Los Angeles
+ticks_0_1656.jpeg,34.336525,-118.54133,Los Angeles
+tick-5.jpg,34.36802,-118.480145,Los Angeles
+ticks_0_8162.jpeg,34.34096667,-118.5491867,Los Angeles
+ticksimage176.jpg,34.19988644,-118.1122948,Los Angeles
+es_ticksimage379.jpg,34.33906167,-118.5501617,Los Angeles
+ticks_0_8836.jpeg,34.34143,-118.5495617,Los Angeles
+ticksimage189.jpg,34.37541667,-118.4390967,Los Angeles
+ticks_0_9374.jpeg,34.34709167,-118.5444917,Los Angeles
+tick-19.jpg,34.36897833,-118.5775383,Los Angeles
+ticks_0_177.jpeg,34.374105,-118.4361,Los Angeles
+ticksimage214.jpg,34.33718833,-118.5512667,Los Angeles
+ticks_0_7452.jpeg,34.376905,-118.4541617,Los Angeles
+ticks_0_6613.jpeg,34.376895,-118.4595717,Los Angeles
+ticks_0_53.jpeg,34.35983667,-118.4984867,Los Angeles
+ticksimage216.jpg,34.34507985,-118.5430345,Los Angeles
+ticksimage202.jpg,34.34590074,-118.5434044,Los Angeles
+ticks_0_7075.jpeg,34.37562,-118.4490717,Los Angeles
+ticks_0_5766.jpeg,34.36796333,-118.5753283,Los Angeles
+es_ticksimage409.jpg,34.3576675,-118.49839,Los Angeles
+ticks_0_6808.jpeg,34.365625,-118.5623,Los Angeles
+tick-7.jpg,34.17186333,-118.2871083,Los Angeles
+ticks_0_3923.jpeg,34.16182783,-118.0537112,Los Angeles
+es_ticksimage179.jpg,34.208661,-118.5733641,Los Angeles
+ticksimage405.jpg,34.34266667,-118.5469883,Los Angeles
+tick-6.jpg,34.19411436,-118.5567801,Los Angeles
+ticksimage175.jpg,34.33796167,-118.543605,Los Angeles
+ticks_0_3260.jpeg,34.37353691,-118.6111762,Los Angeles
+ticks_0_6577.jpeg,34.12347379,-118.4101059,Los Angeles
+ticks_0_1031.jpeg,34.34573,-118.5249833,Los Angeles
+ticks_0_710.jpeg,34.37694167,-118.4545033,Los Angeles
+ticks_0_4224.jpeg,34.339305,-118.5402167,Los Angeles
+ticks_0_2935.jpeg,34.35384667,-118.5598967,Los Angeles
+ticks_0_7234.jpeg,34.33757,-118.5414717,Los Angeles
+tick-2.jpg,34.35338833,-118.5609,Los Angeles
+ticksimage401.jpg,34.36020833,-118.498625,Los Angeles
+ticksimage400.jpg,34.372275,-118.4291417,Los Angeles
+ticksimage399.jpg,34.34185333,-118.5409633,Los Angeles
+es_ticksimage196.jpg,34.0641719,-118.5060087,Los Angeles
+ticks_0_4530.jpeg,34.35655333,-118.55812,Los Angeles
+es_ticksimage19.jpg,34.37566333,-118.4386583,Los Angeles
+ticks_0_2763.jpeg,34.061989,-118.126648,Los Angeles
+ticksimage9.jpg,34.37695833,-118.4388367,Los Angeles
+ticksimage206.jpg,34.37543,-118.4440283,Los Angeles
+ticks_0_4434.jpeg,34.36661333,-118.5717917,Los Angeles
+ticksimage562.jpg,34.07146383,-119.0141611,Los Angeles
+ticksimage576.jpg,34.33910333,-118.536105,Los Angeles
+ticks_0_6242.jpeg,34.367875,-118.5753367,Los Angeles
+ticksimage19.jpg,34.347745,-118.529,Los Angeles
+es_ticksimage396.jpg,34.33736667,-118.54892,Los Angeles
+es_ticksimage9.jpg,34.24178215,-118.3830546,Los Angeles
+tick-1.jpg,34.367875,-118.5753367,Los Angeles
+tick-0.jpg,34.368525,-118.426755,Los Angeles
+ticks_0_9135.jpeg,34.10474521,-118.5041766,Los Angeles
+ticks_0_4642.jpeg,34.34392167,-118.5455967,Los Angeles
+es_ticksimage397.jpg,34.34405272,-118.5423034,Los Angeles
+ticksimage18.jpg,34.39063012,-118.5885914,Los Angeles
+ticks_0_6278.jpeg,34.35555,-118.566705,Los Angeles
+ticks_0_1378.jpeg,35.82585691,-121.3707392,San Jose
+ticks_0_4984.jpeg,37.32011506,-122.1868188,San Jose
+ticks_0_2153.jpeg,37.26177793,-122.3270148,San Jose
+ticksimage205.jpg,37.27047904,-122.0691889,San Jose
+ticks_0_6956.jpeg,36.98520181,-122.0554306,San Jose
+ticks_0_1148.jpeg,36.95436167,-122.0654055,San Jose
+ticks_0_8369.jpeg,37.1191,-122.3141778,San Jose
+ticks_0_4022.jpeg,37.093377,-121.722665,San Jose
+ticksimage80.jpg,37.21431549,-121.7774391,San Jose
+ticksimage100.jpg,36.25666046,-121.743212,San Jose
+ticks_0_9352.jpeg,37.3426553,-122.2296185,San Jose
+ticks_0_7966.jpeg,37.37997168,-121.7409941,San Jose
+es_ticksimage119.jpg,37.165,-122.3272222,San Jose
+ticks_0_2420.jpeg,37.43605221,-122.1057497,San Jose
+ticksimage471.jpg,37.19325278,-121.8317028,San Jose
+ticksimage101.jpg,37.36806167,-122.222625,San Jose
+ticksimage115.jpg,37.00040847,-121.6986889,San Jose
+ticksimage81.jpg,37.33245474,-122.087338,San Jose
+ticks_0_9407.jpeg,36.62477544,-121.7258609,San Jose
+ticks_0_9112.jpeg,37.04952503,-122.3829055,San Jose
+es_ticksimage483.jpg,37.39941796,-122.1618712,San Jose
+ticks_0_9387.jpeg,37.34669,-122.244017,San Jose
+ticks_0_4389.jpeg,36.94957167,-122.0667583,San Jose
+es_ticksimage83.jpg,37.07294717,-122.1386333,San Jose
+ticks_0_8742.jpeg,37.36027876,-122.1852276,San Jose
+ticks_0_3179.jpeg,37.22036874,-121.8454097,San Jose
+ticks_0_2787.jpeg,36.98505652,-122.0676468,San Jose
+es_ticksimage81.jpg,37.02646259,-121.796803,San Jose
+ticks_0_8332.jpeg,37.44283333,-122.2635417,San Jose
+ticks_0_2553.jpeg,37.35283284,-122.1612477,San Jose
+ticks_0_6005.jpeg,36.917559,-121.841245,San Jose
+ticks_0_9923.jpeg,37.27374327,-122.272451,San Jose
+ticksimage83.jpg,37.321895,-122.17195,San Jose
+ticksimage103.jpg,37.17589364,-121.8286586,San Jose
+ticksimage117.jpg,37.28026944,-121.8125833,San Jose
+ticks_0_848.jpeg,37.36561167,-122.1800217,San Jose
+ticksimage300.jpg,37.57446244,-121.6921873,San Jose
+ticksimage116.jpg,37.56751,-121.6981383,San Jose
+ticksimage102.jpg,37.40730345,-122.2370085,San Jose
+ticksimage82.jpg,37.3226053,-122.1821885,San Jose
+ticks_0_2752.jpeg,38.35806274,-122.7054596,Sonoma
+ticks_0_2882.jpeg,38.27244167,-122.2493111,Sonoma
+ticks_0_1742.jpeg,39.31130743,-123.8019402,Sonoma
+ticks_0_9333.jpeg,38.07468917,-122.8510547,Sonoma
+ticks_0_5487.jpeg,38.45463056,-122.5304944,Sonoma
+ticks_0_1997.jpeg,38.34854997,-122.589435,Sonoma
+es_ticksimage282.jpg,38.34334336,-122.5947525,Sonoma
+ticksimage79.jpg,38.02262217,-122.6940917,Sonoma
+ticksimage106.jpg,38.56858293,-122.7056482,Sonoma
+ticksimage112.jpg,38.46151614,-122.7251961,Sonoma
+ticksimage92.jpg,38.50386389,-122.3548444,Sonoma
+ticksimage86.jpg,38.458275,-122.7115333,Sonoma
+ticksimage304.jpg,38.36477333,-122.4703733,Sonoma
+ticksimage310.jpg,38.34864275,-122.5390736,Sonoma
+ticks_0_4428.jpeg,38.04888617,-122.8038333,Sonoma
+ticksimage477.jpg,39.4220421,-123.1835733,Sonoma
+ticks_0_5669.jpeg,38.45986944,-122.5624,Sonoma
+ticksimage87.jpg,38.35111603,-122.5089726,Sonoma
+ticks_0_371.jpeg,38.58273056,-122.708375,Sonoma
+ticksimage107.jpg,38.37029333,-122.4972217,Sonoma
+es_ticksimage485.jpg,38.54728667,-122.5316383,Sonoma
+es_ticksimage491.jpg,37.47242898,-122.2779198,San Francisco
+ticksimage78.jpg,37.89818,-122.5442667,San Francisco
+ticks_0_4890.jpeg,37.4608477,-122.2822008,San Francisco
+es_ticksimage85.jpg,37.46112,-122.2822417,San Francisco
+ticks_0_3590.jpeg,37.96813889,-122.5770333,San Francisco
+ticks_0_6403.jpeg,37.94417167,-122.5678033,San Francisco
+ticks_0_4202.jpeg,37.85765245,-122.5222621,San Francisco
+ticks_0_982.jpeg,37.95481167,-122.5746167,San Francisco
+ticksimage298.jpg,37.596455,-122.5026867,San Francisco
+ticks_0_2067.jpeg,37.44816167,-122.3988283,San Francisco
+ticksimage111.jpg,38.00952278,-122.6173111,San Francisco
+es_ticksimage478.jpg,37.97508833,-122.5833583,San Francisco
+ticksimage85.jpg,37.95433,-122.5739283,San Francisco
+ticks_0_7731.jpeg,37.98372366,-122.6033197,San Francisco
+ticksimage91.jpg,37.93720056,-122.5634644,San Francisco
+es_ticksimage108.jpg,37.74211333,-122.4296717,San Francisco
+ticks_0_8885.jpeg,37.79714667,-122.45382,San Francisco
+es_ticksimage120.jpg,32.97692874,-117.2469336,San Diego
+ticksimage90.jpg,32.77173333,-116.9527111,San Diego
+ticksimage84.jpg,32.8238144,-117.0563328,San Diego
+es_ticksimage92.jpg,32.72781111,-116.9401306,San Diego
+ticks_0_9579.jpeg,32.8424574,-117.2020457,San Diego
+ticks_0_8692.jpeg,32.726745,-116.9573883,San Diego
+ticksimage272.jpg,32.73108333,-116.9415133,San Diego
+ticks_0_7971.jpeg,33.08684576,-117.1432943,San Diego
+ticks_0_9014.jpeg,33.60184167,-116.59822,San Diego
+ticks_0_5349.jpeg,32.92585833,-117.1824583,San Diego
+ticksimage109.jpg,32.66590833,-116.8647917,San Diego
+ticksimage89.jpg,32.69602,-116.8105617,San Diego
+ticks_0_7335.jpeg,37.93448333,-122.197655,Oakland
+es_ticksimage110.jpg,37.79800702,-122.1618748,Oakland
+es_ticksimage111.jpg,37.93616333,-122.2024217,Oakland
+ticks_0_4831.jpeg,37.877157,-121.9238662,Oakland
+ticksimage120.jpg,37.86713833,-122.257505,Oakland
+ticks_0_954.jpeg,37.91346376,-121.9417746,Oakland
+ticksimage108.jpg,37.9159598,-121.939972,Oakland
+ticksimage77.jpg,37.71695267,-122.1008976,Oakland
+es_ticksimage273.jpg,37.90998667,-122.2708517,Oakland
+ticks_0_9311.jpeg,37.864021,-122.243795,Oakland
+ticks_0_9829.jpeg,37.84277167,-122.1908117,Oakland
+ticks_0_7790.jpeg,38.90916897,-121.062981,Sacramento
+ticksimage75.jpg,38.6526165,-121.182555,Sacramento
+es_ticksimage488.jpg,38.56174804,-121.7802158,Sacramento
+es_ticksimage113.jpg,39.31313333,-121.045975,Sacramento
+ticks_0_5492.jpeg,38.55228233,-121.6128816,Sacramento
+ticks_0_3116.jpeg,38.63700303,-121.2680679,Sacramento
+ticks_0_2212.jpeg,40.36658637,-120.6185389,Sacramento
+ticks_0_1279.jpeg,38.796545,-120.8952333,Sacramento
+ticksimage309.jpg,38.86494,-121.0562522,Sacramento
+ticks_0_1445.jpeg,35.15418617,-120.6427467,Bakersfield
+ticks_0_9976.jpeg,35.1931682,-118.3793825,Bakersfield
+ticksimage484.jpg,34.74991594,-119.9443217,Bakersfield
+ticks_0_5778.jpeg,35.33716481,-120.8125877,Bakersfield
+ticks_0_5282.jpeg,34.859205,-119.1807667,Bakersfield
+es_ticksimage489.jpg,35.247455,-120.6915117,Bakersfield
+ticksimage74.jpg,34.52868667,-119.144225,Bakersfield
+ticks_0_1054.jpeg,34.52948333,-120.1744,Bakersfield
+ticks_0_3317.jpeg,35.29756167,-120.7024,Bakersfield
+ticks_0_5692.jpeg,40.92633694,-123.740134,Humboldt
+ticks_0_6790.jpeg,41.88706074,-123.1769249,Humboldt
+ticks_0_1813.jpeg,40.8020573,-124.1636731,Humboldt
+ticksimage480.jpg,40.12737096,-123.824931,Humboldt
+ticks_0_9131.jpeg,41.25240253,-123.9853018,Humboldt
+ticks_0_6745.jpeg,40.12759024,-123.8244773,Humboldt
+ticksimage481.jpg,38.06794087,-122.1101975,Vallejo
+ticks_0_4955.jpeg,38.09707783,-122.1530695,Vallejo
+ticks_0_172.jpeg,38.0370782,-122.2629046,Vallejo
+ticks_0_1700.jpeg,38.213375,-122.3321217,Vallejo
+ticksimage520.jpg,37.94876561,-121.855253,Vallejo
+ticks_0_914.jpeg,34.12711976,-117.8504544,Pomona
+ticks_0_7135.jpeg,34.41458407,-117.8597121,Pomona
+ticks_0_6909.jpeg,34.22403717,-117.4641113,Pomona
+ticks_0_4534.jpeg,34.02889255,-117.0502184,Pomona
+ticks_0_7318.jpeg,38.44109219,-119.2114398,Fresno
+ticks_0_8405.jpeg,37.29162,-118.2297833,Fresno
+ticks_0_7089.jpeg,36.73026523,-119.8087067,Fresno
+ticks_0_7764.jpeg,35.55237167,-121.0776528,Fresno
+ticks_0_5759.jpeg,33.78871667,-117.8103717,Anaheim
+ticks_0_5923.jpeg,33.6768537,-117.7846031,Anaheim
+ticksimage119.jpg,33.5684605,-117.7262981,Anaheim
+ticksimage99.jpg,,,
+ticks_0_538.jpeg,,,
+ticks_0_9107.jpeg,,,
+ticks_0_1707.jpeg,,,
+ticksimage7.jpg,,,
+ticks_0_5894.jpeg,,,
+ticks_0_3940.jpeg,,,
+es_ticksimage17.jpg,,,
+ticks_0_7112.jpeg,,,
+tick-11.jpg,,,
+ticks_0_1183.jpeg,,,
+ticksimage15.jpg,,,
+ticks_0_134.jpeg,,,
+ticks_0_3956.jpeg,,,
+ticks_0_8619.jpeg,,,
+ticks_0_6040.jpeg,,,
+ticks_0_3700.jpeg,,,
+es_ticksimage402.jpg,,,
+ticksimage180.jpg,,,
+ticksimage194.jpg,,,
+ticksimage14.jpg,,,
+ticks_0_7240.jpeg,,,
+tick-10.jpg,,,
+es_ticksimage16.jpg,,,
+ticks_0_5011.jpeg,,,
+ticksimage553.jpg,,,
+ticks_0_3741.jpeg,,,
+ticks_0_1455.jpeg,,,
+ticksimage4.jpg,,,
+ticks_0_9100.jpeg,,,
+es_ticksimage14.jpg,,,
+tick-12.jpg,,,
+ticks_0_1619.jpeg,,,
+ticksimage16.jpg,,,
+ticks_0_2166.jpeg,,,
+ticks_0_9141.jpeg,,,
+es_ticksimage6.jpg,,,
+ticks_0_8496.jpeg,,,
+ticks_0_6762.jpeg,,,
+es_ticksimage415.jpg,,,
+ticksimage197.jpg,,,
+ticksimage183.jpg,,,
+es_ticksimage15.jpg,,,
+ticks_0_8678.jpeg,,,
+ticks_0_5949.jpeg,,,
+ticks_0_6666.jpeg,,,
+ticksimage1.jpg,,,
+ticksimage568.jpg,,,
+es_ticksimage203.jpg,,,
+ticksimage187.jpg,,,
+ticksimage193.jpg,,,
+ticksimage13.jpg,,,
+es_ticksimage405.jpg,,,
+ticks_0_8053.jpeg,,,
+es_ticksimage2.jpg,,,
+ticks_0_4322.jpeg,,,
+es_ticksimage404.jpg,,,
+ticksimage12.jpg,,,
+ticksimage192.jpg,,,
+ticksimage186.jpg,,,
+tick-16.jpg,,,
+ticks_0_528.jpeg,,,
+ticks_0_9551.jpeg,,,
+ticks_0_5801.jpeg,,,
+ticksimage2.jpg,,,
+tick-14.jpg,,,
+ticksimage184.jpg,,,
+ticksimage10.jpg,,,
+ticks_0_2110.jpeg,,,
+tick-8.jpg,,,
+ticksimage393.jpg,,,
+tick-9.jpg,,,
+ticks_0_5587.jpeg,,,
+ticksimage11.jpg,,,
+ticksimage191.jpg,,,
+ticks_0_6094.jpeg,,,
+ticks_0_1614.jpeg,,,
+ticks_0_7451.jpeg,,,
+ticksimage3.jpg,,,
