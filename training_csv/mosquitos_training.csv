@@ -1,4 +1,4 @@
-image_name,latitude,longitude,county_name
+image_id,latitude,longitude,county_name
 mosquito_j9.jpeg,33.87868017,-118.3673034,Los Angeles County
 mosquito_j19.jpg,34.01581426,-118.0995738,Los Angeles County
 mosquito_j25.jpg,34.0445774,-118.1183058,Los Angeles County
