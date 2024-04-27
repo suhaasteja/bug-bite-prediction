@@ -1,0 +1,15 @@
+<annotation>
+  <folder></folder>
+  <filename>chigger-bites-bullous.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>720</width>
+    <height>464</height>
+    <depth></depth>
+  </size>
+  <segmented>1</segmented>
+</annotation>

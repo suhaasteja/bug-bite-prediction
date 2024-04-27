@@ -1,0 +1,15 @@
+<annotation>
+  <folder>fleas</folder>
+  <filename>fleas_2.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>260</width>
+    <height>260</height>
+    <depth></depth>
+  </size>
+  <segmented>1</segmented>
+</annotation>

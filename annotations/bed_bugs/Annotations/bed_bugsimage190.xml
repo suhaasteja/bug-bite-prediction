@@ -1,0 +1,15 @@
+<annotation>
+  <folder>bed</folder>
+  <filename>bed_bugsimage190.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>287</width>
+    <height>155</height>
+    <depth></depth>
+  </size>
+  <segmented>1</segmented>
+</annotation>

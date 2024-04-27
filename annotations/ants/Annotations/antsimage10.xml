@@ -1,0 +1,15 @@
+<annotation>
+  <folder></folder>
+  <filename>antsimage10.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>160</width>
+    <height>160</height>
+    <depth></depth>
+  </size>
+  <segmented>1</segmented>
+</annotation>

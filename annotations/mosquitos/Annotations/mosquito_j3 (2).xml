@@ -1,0 +1,15 @@
+<annotation>
+  <folder>mosquito</folder>
+  <filename>mosquito_j3 (2).jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>213</width>
+    <height>213</height>
+    <depth></depth>
+  </size>
+  <segmented>1</segmented>
+</annotation>

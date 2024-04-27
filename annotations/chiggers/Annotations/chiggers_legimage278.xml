@@ -1,0 +1,15 @@
+<annotation>
+  <folder>chiggers</folder>
+  <filename>chiggers_legimage278.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>220</width>
+    <height>160</height>
+    <depth></depth>
+  </size>
+  <segmented>1</segmented>
+</annotation>
