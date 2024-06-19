@@ -1,0 +1,66 @@
+<annotation>
+	<folder></folder>
+	<filename>image661_jpg.rf.d59be273fba51d9a7a6e75bec73ac8fd.jpg</filename>
+	<path>image661_jpg.rf.d59be273fba51d9a7a6e75bec73ac8fd.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kan emici bocekler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>219</xmin>
+			<xmax>409</xmax>
+			<ymin>154</ymin>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kan emici bocekler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>442</xmin>
+			<xmax>520</xmax>
+			<ymin>193</ymin>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kan emici bocekler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>343</xmin>
+			<xmax>373</xmax>
+			<ymin>348</ymin>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kan emici bocekler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>119</xmin>
+			<xmax>193</xmax>
+			<ymin>210</ymin>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

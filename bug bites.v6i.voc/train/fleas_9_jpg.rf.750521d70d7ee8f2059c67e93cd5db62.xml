@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>fleas_9_jpg.rf.750521d70d7ee8f2059c67e93cd5db62.jpg</filename>
+	<path>fleas_9_jpg.rf.750521d70d7ee8f2059c67e93cd5db62.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kan emici bocekler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>123</xmin>
+			<xmax>269</xmax>
+			<ymin>171</ymin>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kan emici bocekler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>236</xmin>
+			<xmax>394</xmax>
+			<ymin>353</ymin>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kan emici bocekler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>388</xmin>
+			<xmax>556</xmax>
+			<ymin>182</ymin>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

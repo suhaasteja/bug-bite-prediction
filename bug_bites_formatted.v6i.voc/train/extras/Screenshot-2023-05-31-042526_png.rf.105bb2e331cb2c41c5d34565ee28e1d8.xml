@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Screenshot-2023-05-31-042526_png.rf.105bb2e331cb2c41c5d34565ee28e1d8.jpg</filename>
+	<path>Screenshot-2023-05-31-042526_png.rf.105bb2e331cb2c41c5d34565ee28e1d8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sinek</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>290</xmin>
+			<xmax>390</xmax>
+			<ymin>256</ymin>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>

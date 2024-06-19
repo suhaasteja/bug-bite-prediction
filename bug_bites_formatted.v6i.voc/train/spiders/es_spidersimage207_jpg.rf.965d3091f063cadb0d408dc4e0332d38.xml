@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>es_spidersimage207_jpg.rf.965d3091f063cadb0d408dc4e0332d38.jpg</filename>
+	<path>es_spidersimage207_jpg.rf.965d3091f063cadb0d408dc4e0332d38.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

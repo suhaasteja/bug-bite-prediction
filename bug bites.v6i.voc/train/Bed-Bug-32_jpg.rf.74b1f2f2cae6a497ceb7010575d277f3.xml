@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Bed-Bug-32_jpg.rf.74b1f2f2cae6a497ceb7010575d277f3.jpg</filename>
+	<path>Bed-Bug-32_jpg.rf.74b1f2f2cae6a497ceb7010575d277f3.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kan emici bocekler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>217</xmin>
+			<xmax>317</xmax>
+			<ymin>185</ymin>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>

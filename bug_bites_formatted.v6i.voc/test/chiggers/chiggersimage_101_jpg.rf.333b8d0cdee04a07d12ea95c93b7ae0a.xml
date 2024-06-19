@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>chiggersimage_101_jpg.rf.333b8d0cdee04a07d12ea95c93b7ae0a.jpg</filename>
+	<path>chiggersimage_101_jpg.rf.333b8d0cdee04a07d12ea95c93b7ae0a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kan emici bocekler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>156</xmin>
+			<xmax>501</xmax>
+			<ymin>147</ymin>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+</annotation>

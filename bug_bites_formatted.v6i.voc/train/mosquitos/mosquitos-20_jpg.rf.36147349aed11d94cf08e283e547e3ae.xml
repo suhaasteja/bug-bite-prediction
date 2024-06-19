@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>mosquitos-20_jpg.rf.36147349aed11d94cf08e283e547e3ae.jpg</filename>
+	<path>mosquitos-20_jpg.rf.36147349aed11d94cf08e283e547e3ae.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sinek</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>240</xmin>
+			<xmax>513</xmax>
+			<ymin>369</ymin>
+			<ymax>583</ymax>
+		</bndbox>
+	</object>
+</annotation>

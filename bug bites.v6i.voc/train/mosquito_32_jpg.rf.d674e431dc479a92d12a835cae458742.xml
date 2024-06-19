@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>mosquito_32_jpg.rf.d674e431dc479a92d12a835cae458742.jpg</filename>
+	<path>mosquito_32_jpg.rf.d674e431dc479a92d12a835cae458742.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sinek</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>65</xmin>
+			<xmax>509</xmax>
+			<ymin>16</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

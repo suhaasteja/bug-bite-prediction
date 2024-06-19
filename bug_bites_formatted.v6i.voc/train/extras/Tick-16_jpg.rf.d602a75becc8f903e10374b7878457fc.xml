@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Tick-16_jpg.rf.d602a75becc8f903e10374b7878457fc.jpg</filename>
+	<path>Tick-16_jpg.rf.d602a75becc8f903e10374b7878457fc.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kene</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>135</xmin>
+			<xmax>459</xmax>
+			<ymin>97</ymin>
+			<ymax>515</ymax>
+		</bndbox>
+	</object>
+</annotation>

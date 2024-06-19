@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>image14-2-_jpg.rf.046cb4c04c10d879911e1c4f0da5f745.jpg</filename>
+	<path>image14-2-_jpg.rf.046cb4c04c10d879911e1c4f0da5f745.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kan emici bocekler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>374</xmin>
+			<xmax>421</xmax>
+			<ymin>127</ymin>
+			<ymax>526</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kan emici bocekler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>281</xmin>
+			<xmax>356</xmax>
+			<ymin>195</ymin>
+			<ymax>596</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kan emici bocekler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>354</xmin>
+			<xmax>373</xmax>
+			<ymin>193</ymin>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>image223_jpg.rf.124f5447671384f8001286466cda6380.jpg</filename>
+	<path>image223_jpg.rf.124f5447671384f8001286466cda6380.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kene</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>236</xmin>
+			<xmax>484</xmax>
+			<ymin>174</ymin>
+			<ymax>433</ymax>
+		</bndbox>
+	</object>
+</annotation>

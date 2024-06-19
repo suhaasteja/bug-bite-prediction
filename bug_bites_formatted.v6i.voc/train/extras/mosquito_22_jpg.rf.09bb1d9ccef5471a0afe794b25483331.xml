@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>mosquito_22_jpg.rf.09bb1d9ccef5471a0afe794b25483331.jpg</filename>
+	<path>mosquito_22_jpg.rf.09bb1d9ccef5471a0afe794b25483331.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
