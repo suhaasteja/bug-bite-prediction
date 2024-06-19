@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>image808-2-_jpg.rf.ddcf9d477e15b33e9cb2d8db7c71a3be.jpg</filename>
+	<path>image808-2-_jpg.rf.ddcf9d477e15b33e9cb2d8db7c71a3be.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kan emici bocekler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>252</xmin>
+			<xmax>295</xmax>
+			<ymin>253</ymin>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kan emici bocekler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>331</xmin>
+			<xmax>430</xmax>
+			<ymin>205</ymin>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

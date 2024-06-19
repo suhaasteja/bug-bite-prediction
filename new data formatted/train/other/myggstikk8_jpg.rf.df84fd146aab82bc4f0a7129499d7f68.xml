@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>myggstikk8_jpg.rf.df84fd146aab82bc4f0a7129499d7f68.jpg</filename>
+	<path>myggstikk8_jpg.rf.df84fd146aab82bc4f0a7129499d7f68.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sinek</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>183</xmin>
+			<xmax>407</xmax>
+			<ymin>201</ymin>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>Bed-Bug-60_jpg.rf.079e4687de4dd43ee2f81b38fc870b61.jpg</filename>
+	<path>Bed-Bug-60_jpg.rf.079e4687de4dd43ee2f81b38fc870b61.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kan emici bocekler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>9</xmin>
+			<xmax>112</xmax>
+			<ymin>287</ymin>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kan emici bocekler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>60</xmin>
+			<xmax>185</xmax>
+			<ymin>327</ymin>
+			<ymax>402</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kan emici bocekler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>446</xmin>
+			<xmax>604</xmax>
+			<ymin>338</ymin>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>
